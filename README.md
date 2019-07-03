@@ -1,7 +1,7 @@
 # Disaster Response Text Classification Pipeline Project
 
 ## Summary:
-This project is one of the deliverables for Udacity's Data Science Nanodegree program. In this project, we aim at categorizing text messages that are sent during a disaster and check if they contain information that can save the lives of the people affected by the disaster.
+In this project, we aim at categorizing text messages that are sent during a disaster and check if they contain information that can save the lives of the people affected by the disaster.
 
 ### Files:
 process_data.py contains an ETL pipeline that cleans the data from csv files and stores the cleaned data in sql databases
